@@ -2,7 +2,7 @@
 
 Main tools:
   - ChatGPT (OpenAI GPT-4o)
-  - GitHub Copilot
+  - GitHub Copilot<br>
 Main use cases:
   - Brainstormed component layout and structure ideas
   - Created Tailwind CSS patterns and Framer Motion animations
