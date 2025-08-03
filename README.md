@@ -170,3 +170,12 @@ This project was independently developed with partial assistance from AI tools, 
 
 💡 Summary
 AI tools were used as supportive aids to improve speed and clarity, not as the main development drivers. This ensured originality, functionality, and hands-on understanding of every part of the project.
+
+📋 Submission Checklist
+
+✅ Required Deliverables
+GitHub Repository – Clean, well-documented codebase  
+Live Demo – Deployed on Netlify: https://modernsaas.netlify.app/
+README.md – Includes setup instructions, feature overview, and context  
+AI Usage Report – 200-300 words describing AI-assisted workflow (see section above)  
+
