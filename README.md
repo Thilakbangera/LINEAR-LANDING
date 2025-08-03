@@ -36,10 +36,7 @@ The goal was not only to complete the task but to demonstrate real-world fronten
 
 📸 Preview
 
-Live Site 👉 [https://modernsaas.netlify.app](https://modernsaas.netlify.app)
-
-![Linear Landing Preview](https://user-images.githubusercontent.com/your-screenshot.png)  
-(Replace with your actual screenshot URL from GitHub or Netlify)
+Live Site 👉 https://modernsaas.netlify.app
 
 ---
 
