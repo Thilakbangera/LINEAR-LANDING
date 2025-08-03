@@ -147,3 +147,26 @@ Feel free to connect if you want to collaborate or provide feedback:
 * GitHub: https://github.com/Thilakbangera
 * LinkedIn: https://www.linkedin.com/in/thilak-bangera-b37629318
 * Live Demo: https://modernsaas.netlify.app
+
+## 🧠 AI Usage Report
+
+This project was independently developed with partial assistance from AI tools, contributing to approximately **25%** of the total workflow. AI support was used selectively to speed up repetitive tasks, validate design decisions, and streamline the development process. The core development — including component architecture, styling, and deployment — was handled manually to retain full creative control and ensure deep technical understanding.
+
+🔧 AI Tools Used
+- ChatGPT (OpenAI GPT-4o)
+  - Brainstormed UI structure and layout ideas
+  - Provided Framer Motion animation snippets
+  - Assisted with Netlify deployment configuration
+  - Reviewed and refined README content
+- GitHub Copilot
+  - Auto-suggested React and Tailwind CSS code patterns
+  - Helped with boilerplate and repetitive logic
+
+🗂️ Example Prompts & Tasks
+- `How to animate a component using Framer Motion in React`
+- `Fix: Netlify build not working — what should be the publish directory?`
+- `Write a clean, modern landing page structure with Tailwind CSS`
+- `Professional README template for SaaS landing page`
+
+💡 Summary
+AI tools were used as supportive aids to improve speed and clarity, not as the main development drivers. This ensured originality, functionality, and hands-on understanding of every part of the project.
