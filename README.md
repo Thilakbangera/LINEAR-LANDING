@@ -150,32 +150,43 @@ Feel free to connect if you want to collaborate or provide feedback:
 
 ## 🧠 AI Usage Report
 
-This project was independently developed with partial assistance from AI tools, contributing to approximately **25%** of the total workflow. AI support was used selectively to speed up repetitive tasks, validate design decisions, and streamline the development process. The core development — including component architecture, styling, and deployment — was handled manually to retain full creative control and ensure deep technical understanding.
+This project was independently developed with selective use of AI tools, contributing to approximately **25%** of the total workflow. AI was used as a **supportive tool**, helping boost productivity and speed up routine tasks, while the majority of the logic, structure, and UI was manually designed and built to ensure originality and clarity.
 
-🔧 AI Tools Used
-- ChatGPT (OpenAI GPT-4o)
-  - Brainstormed UI structure and layout ideas
-  - Provided Framer Motion animation snippets
-  - Assisted with Netlify deployment configuration
-  - Reviewed and refined README content
-- GitHub Copilot
-  - Auto-suggested React and Tailwind CSS code patterns
-  - Helped with boilerplate and repetitive logic
+---
 
-🗂️ Example Prompts & Tasks
-- `How to animate a component using Framer Motion in React`
-- `Fix: Netlify build not working — what should be the publish directory?`
-- `Write a clean, modern landing page structure with Tailwind CSS`
-- `Professional README template for SaaS landing page`
+✅ AI Tools Used
 
-💡 Summary
-AI tools were used as supportive aids to improve speed and clarity, not as the main development drivers. This ensured originality, functionality, and hands-on understanding of every part of the project.
+- Primary tools:
+  - ChatGPT (OpenAI GPT-4o)  
+  - GitHub Copilot  
 
-📋 Submission Checklist
+- Key use cases: 
+  - Brainstormed component structure and layout ideas  
+  - Generated Tailwind CSS patterns and Framer Motion animations  
+  - Helped resolve Netlify deployment issues  
+  - Reviewed and polished README.md formatting and content  
 
-✅ Required Deliverables
-GitHub Repository – Clean, well-documented codebase  
-Live Demo – Deployed on Netlify: https://modernsaas.netlify.app/
-README.md – Includes setup instructions, feature overview, and context  
-AI Usage Report – 200-300 words describing AI-assisted workflow (see section above)  
+---
 
+💬 Sample Prompts
+
+1. “Create a modern SaaS landing page layout using Tailwind CSS”  
+2. “Fix Netlify deployment issue: what should be the publish directory?”  
+3. “Add animated section reveal using Framer Motion in React”
+
+---
+
+⚖️ AI vs Manual Work Split
+
+- AI-generated (~25%)
+  - Suggestions for animations, layout structure, Netlify setup  
+  - Copilot-assisted syntax completions (e.g., JSX tags, Tailwind classes)
+
+- Manual coding (~75%)
+  - Full component creation and layout integration  
+  - Responsive design, routing, final animation tuning  
+  - Final README structure and deployment process
+
+- Customization: 
+  - All AI suggestions were reviewed and adapted to match the brand style and project goals  
+  - Ensured code consistency, clarity, and maintainability
