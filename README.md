@@ -136,7 +136,7 @@ Publish directory: dist
 
 * Inspired by Dora AI, Linear, Vercel, and Framer design principles
 * Icons and fonts used under open licenses
-* Built with ❤️ by Thilak
+* Built by Thilak
 
 ---
 
